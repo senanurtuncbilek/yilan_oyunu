@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/QS/QS-Textures-Grass-v1/Scenes/Scene-1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
